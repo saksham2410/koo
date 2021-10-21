@@ -1,0 +1,12 @@
+.cardStyles {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
+
+.body-styles {
+  margin-top: 20px;
+}
